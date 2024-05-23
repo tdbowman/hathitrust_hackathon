@@ -1,4 +1,4 @@
-# HATHI TRUST HACKATHON #
+# HATHI TRUST TORCH-LITE HACKATHON #
 Hackathon results with: 
 
 -  Tim Bowman, Associate Professor, Dominican University, School of Information Studies (https://orcid.org/0000-0003-0247-4771)
@@ -14,3 +14,24 @@ Hackathon results with:
 
 ![Mind Map of Hackathon Project Mashup](images/Mind%20map%20with%20lines.png)
 
+
+## HACKATHON INFO ##
+- [Torch-Lite Hackathon](https://htrc.github.io/torchlite-hackathon/)
+
+
+## DATA SOURCES ##
+
+- [GitHub - Amir Motavas - Open-Syllabus Repo](https://github.com/mtdamir/open-syllabus/tree/master)
+  - [GitHub Starting Point {Classics} List of Docs}](https://raw.githubusercontent.com/mtdamir/open-syllabus/master/urls.csv)
+ 
+- [Open Syllabus](https://docs.opensyllabus.org/index.html)
+  - [Open Syllabus Example JSON Record](https://explorer-api.opensyllabus.org/v1/works/50903952394903.json)
+    
+- [Open Library](https://openlibrary.org/)
+  - [Open Library Example JSON Record](https://openlibrary.org/search.json?title=Metamorphoses&author=Ovid)
+ 
+- [Goodreads API {deprecated but still working} ](https://www.goodreads.com/api)
+  - [Goodreads API JSON Record](https://www.goodreads.com/book/review_counts.json?isbns=2080720929)
+ 
+- [Hathi Trust Library APIs](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/)
+  -  [Hathi Trust JSON Record](https://catalog.hathitrust.org/api/volumes/full/recordnumber/009709406.json)
