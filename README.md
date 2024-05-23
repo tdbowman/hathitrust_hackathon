@@ -34,4 +34,7 @@ Hackathon results with:
   - [Goodreads API JSON Record](https://www.goodreads.com/book/review_counts.json?isbns=2080720929)
  
 - [Hathi Trust Library APIs](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/)
-  -  [Hathi Trust JSON Record](https://catalog.hathitrust.org/api/volumes/full/recordnumber/009709406.json)
+  -  [Hathi Trust Metadata JSON Record](https://catalog.hathitrust.org/api/volumes/full/recordnumber/009709406.json)
+  -  [Hathi Trust EF JSON Record](https://data.htrc.illinois.edu/ef-api/volumes/hvd.32044090286501)
+ 
+
