@@ -1,5 +1,8 @@
 # HATHI TRUST HACKATHON #
-Hackathon results with Kai 
+Hackathon results with: 
+
+-  Tim Bowman, Associate Professor, Dominican University, School of Information Studies (https://orcid.org/0000-0003-0247-4771)
+-  Kai Li, Assistat Professor, University of Tennessee, School of Informaiton Science (https://orcid.org/0000-0002-7264-365X)
 
 ## OVERALL GOALS ##
 1. Determine how Hathi Trust books are used in Syllabi for educational purposes
