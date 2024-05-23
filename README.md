@@ -1,4 +1,7 @@
-# HATHI TRUST TORCH-LITE HACKATHON #
+# -- HATHI TRUST TORCH-LITE HACKATHON -- #
+## Hathi Trust Documents Used in Education ##
+
+
 Hackathon results with: 
 
 -  Tim Bowman, Associate Professor, Dominican University, School of Information Studies (https://orcid.org/0000-0003-0247-4771)
